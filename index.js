@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 const app = require('./app')
 const http = require('http')
 const config = require('./utils/config')

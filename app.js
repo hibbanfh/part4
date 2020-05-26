@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 const config = require('./utils/config')
 const middleware = require('./utils/middleware')
 const logger = require('./utils/logger')
